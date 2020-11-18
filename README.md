@@ -1,3 +1,3 @@
 ## In This Repo
 
-A companion app for a financial services company
+A demo companion app for a financial services company
